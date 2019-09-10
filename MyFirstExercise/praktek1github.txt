@@ -1,0 +1,7 @@
+- git init
+- git status
+- git add [nama_file]
+- git commit -m "pesan_anda"
+- git log --oneline
+- git remote add origin {alamat_repositori_github]
+- git push -u origin master
