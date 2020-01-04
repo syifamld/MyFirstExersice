@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SignUpApp</string>
+    <string name="daftar">Sign Up</string>
+    <string name="user">Username</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="content_text">SsTtt Studio adalah tempat untuk belajar
+pemrograman perangkat bergerak baik dengan Android, IOS, maupun
+Windows Phone. Tidak perlu khawatir jika kamu belum memiliki basic
+programming sebelumnya. Sebab disini kamu akan di ajari from zero to hero
+dalam membuat aplikasi berbasis mobile. Segera daftarkan diri kamu, minggu
+depan harga naik!!!</string>
+    <string name="sosmed">Sign Up With Social Media</string>
+    <string name="welcome">Hai guys, Welcome to Polines Studio :)</string>
+</resources>

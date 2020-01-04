@@ -24,7 +24,11 @@ public class HalActivity1 extends AppCompatActivity {
 
         btnnexthal.setOnClickListener(new View.OnClickListener() {
             @Override
-      
-        };);
+            public void onClick(View view) {
+
+            }
+        }
+
+    }
     }
 }
